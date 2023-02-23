@@ -12,4 +12,4 @@ It let's the user toggle through the categories of foods that are available.
 
 ## Tech Stack
 
-- React Js
+- React JS
